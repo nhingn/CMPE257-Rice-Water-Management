@@ -1,4 +1,5 @@
-# CMPE257-Rice-Water-Management
+# Mapping Sustainable Rice Water-Management Practices in Punjab using Machine Learning 
+
 
 A CMPE 257 machine learning project exploring how satellite-derived features can identify rice sowing and irrigation practices in Punjab, India.
 
